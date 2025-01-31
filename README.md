@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctavia" alt="noctavia" /></a> </p>
 
-- 👨‍💻 Tout mes projet sont ici [présentation](https://noctavia.github.io/Noctabot-web/presentation.html)
+<p align="left"> <a href="https://twitter.com/https://x.com/noctavia111" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/noctavia111?logo=twitter&style=for-the-badge" alt="https://x.com/noctavia111" /></a> </p>
+
+- 👨‍💻 Tout mes projet sont ici [presentation](https://noctavia.github.io/Noctabot-web/presentation.html)
 
 - 💬 Posez-moi des questions **react,vue etc**
 
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://x.com/noctavia111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/noctavia111" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/noctavia0220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noctavia0220/" height="30" width="40" /></a>
 </p>
 
