@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react,vue**
 
-- 📫 How to reach me **vearathenicofrance@gmail.com**
+- 📫 Comment me joindre **vearathenicofrance@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
