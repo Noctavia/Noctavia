@@ -33,5 +33,5 @@ Je suis un développeur passionné par plusieurs langages de programmation, nota
 
 ### 📈 Statistiques GitHub
 
-![Contribution Snake]([https://github-readme-streak-stats.herokuapp.com/?user=Noctavia&theme=dark](https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only])
+![Contribution Snake]([https://github-readme-streak-stats.herokuapp.com/?user=Noctavia&theme=dark](https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
