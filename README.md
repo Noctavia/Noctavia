@@ -1,37 +1,24 @@
-# Salut, je suis **Noctavia** 👋
+<h1 align="center">Salut 👋,Je suis Noctavia</h1>
+<h3 align="center">Je suis un développeur passionné par plusieurs langages de programmation, notamment Python, C++, JavaScript, HTML, CSS, et C#. Je suis toujours à la recherche de nouveaux projets pour améliorer mes compétences et apprendre de nouvelles technologies.</h3>
 
-Je suis un développeur passionné par plusieurs langages de programmation, notamment **Python**, **C++**, **JavaScript**, **HTML**, **CSS**, et **C#**. Je suis toujours à la recherche de nouveaux projets pour améliorer mes compétences et apprendre de nouvelles technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=noctavia&label=Profile%20views&color=0e75b6&style=flat" alt="noctavia" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctavia" alt="noctavia" /></a> </p>
 
-### 🛠️ Langages et Technologies
+- 👨‍💻 Tout mes projet sont ici [présentation](https://noctavia.github.io/Noctabot-web/presentation.html)
 
-- **Python** ![Python Logo](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
-- **C++** ![C++ Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg)
-- **JavaScript** ![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
-- **HTML** ![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/2/26/HTML5_logo.svg)
-- **CSS** ![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
-- **C#** ![C# Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.svg)
+- 💬 Ask me about **react,vue**
 
----
+- 📫 How to reach me **vearathenicofrance@gmail.com**
 
-### 🌱 Actuellement en train de travailler sur :
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/https://www.instagram.com/noctavia0220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noctavia0220/" height="30" width="40" /></a>
+</p>
 
-- **Développement de bots Discord** pour automatiser des tâches et enrichir les interactions communautaires.
-- **Création de sites web dynamiques** avec HTML, CSS, et JavaScript.
-- **Exploration de nouveaux outils et langages**, avec des projets en **Python** et **C++**.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noctavia&show_icons=true&locale=en&layout=compact" alt="noctavia" /></p>
 
-### 💻 Mes projets récents :
-
-- **Bot Discord avec Spotify API** - Un bot multifonctionnel pour gérer la musique et plus.
-- **Simulateur d'emploi du temps** - Un outil pour organiser et gérer les emplois du temps.
-- **Site de gestion des deadlines** - Une plateforme pour suivre les échéances et tâches importantes.
-
----
-
-### 📈 Statistiques GitHub
-
-![Contribution Snake]([https://github.com/dekrypted/dekrypted/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only])
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noctavia&show_icons=true&locale=en" alt="noctavia" /></p>
