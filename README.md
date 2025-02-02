@@ -5,20 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctavia" alt="noctavia " /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/noctavia111" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/noctavia111?logo=twitter&style=for-the-badge" alt="https://x.com/noctavia111" /></a> </p>
-
 - 🌱 Je sais lire le **Python,Javascript,C++,C#,HTML,CSS,PHP**
 
-- 👨‍💻 Tout mes projet sont ici [présentation](https://noctavia.github.io/Noctabot-web/presentation.html)
+- 👨‍💻 Tout mes projets sont ici [présentation](https://noctavia.github.io/Noctabot-web/presentation.html)
 
 - 💬 Posez-moi des questions **react,vue etc**
 
-- 📫 Commentez-moi joindre **vearathenicofrance@gmail.com**
+- 📫 Comment me joindre **vearathenicofrance@gmail.com**
 
-<h3 align="left" >Connectez-vous avec moi :</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/noctavia111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/noctavia111" hauteur="30" largeur="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/noctavia0220/" target="blank"><img align="centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www .instagram.com/noctavia0220/" height="30" width="40" /></a>
+<h3 align="left">Connectez-vous avec moi :</h3>
+<p align="left" >
+<a href="https://instagram.com/https://www.instagram.com/noctavia0220/" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/noctavia0220/" height="30" width= "40" /></a>
 </p>
 
 <h3 align="left">Langues et outils :</h3>
@@ -29,3 +26,4 @@
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=noctavia&show_icons=true&locale=fr"
 
 alt="noctavia" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctavia&theme=highcontrast" alt="noctavia" /></p>
+
