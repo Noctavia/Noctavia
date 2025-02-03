@@ -25,5 +25,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=noctavia&show_icons=true&locale=fr"
 
-alt="noctavia" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noctavia&theme=highcontrast" alt="noctavia" /></p>
 
