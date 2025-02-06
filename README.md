@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noctavia&label =Profile%20views&color=0e75b6&style=flat-square" alt="noctavia" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=noctavia" alt="noctavia " /></a> </p>
+<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)"><img src="https://github-profile-trophy.vercel.app/?username=noctavia" alt="noctavia " /></a> </p>
 
 - 🌱 Je sais lire le **Python,Javascript,C++,C#,HTML,CSS,PHP**
 
