@@ -69,8 +69,8 @@ class Noctavia:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noctavia&repo=domain-reconnaissance&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/Noctavia/domain-reconnaissance)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noctavia&repo=ai-chatbot&theme=dracula&hide_border=true&bg_color=0D1117)](https://github.com/Noctavia/ai-chatbot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noctavia&repo=domain-reconnaissance&theme=dracula&hide_border=true&bg_color=0D1117)]([https://github.com/Noctavia/domain-reconnaissance](https://github.com/Noctavia/ChronoShift))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Noctavia&repo=ai-chatbot&theme=dracula&hide_border=true&bg_color=0D1117)]([https://github.com/Noctavia/ai-chatbot](https://github.com/Noctavia/Vocal-Assistance))
 
 </div>
 
