@@ -360,8 +360,7 @@ Lua           1 hr 30 mins   █░░░░░░░░░░░░░░░░
 
 Si mes projets multi-langages vous inspirent !
 
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/noctavia)
-[![GitHub Sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)](https://github.com/sponsors/Noctavia)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](ko-fi.com/noctavia42387)
 
 -----
 
