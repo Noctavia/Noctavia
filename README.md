@@ -177,7 +177,7 @@ Lua          ████████████░░░░░░░░  Avanc
 
 ---
 
-## 💼 Objectifs 2025
+## 💼 Objectifs 2026
 
 - ✅ Maîtriser 7 langages de programmation
 - 📚 Contribuer à des projets open source
